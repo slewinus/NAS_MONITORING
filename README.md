@@ -4,4 +4,4 @@
 
 ## 2 - docker-compose.yml
 
-## 3 - go f*ck yourself with smtp
+## 3 - go f*ck yourself with snmp
